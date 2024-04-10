@@ -1,0 +1,9 @@
+The following materials are retrieved from the repository <https://github.com/edent/SuperTinyIcons>:
+
+- discord.svg
+- github.svg
+- linkedin.svg
+- medium.svg
+- telegram.svg
+- twitter.svg
+- youtube.svg

@@ -1,12 +1,12 @@
-[![axone github banner](/profile/static/axone-banner.webp)](https://axone.xyz)
+[![axone github banner](/profile/static/axone-banner.png)](https://axone.xyz)
 
 `Axone` is a public [dPoS](https://en.bitcoinwiki.org/wiki/DPoS) layer 1 specifically designed for connecting, sharing, and monetizing any resources in the AI stack.
 It is an open network dedicated to collaborative AI workflow management that is universally compatible with any data, model, or infrastructure.
 Data, algorithms, storage, compute, APIs… Anything on-chain and off-chain can be shared.
 
-<p align="center">👉 Would you be interested in learning more about what we are building ?</p>
+<p align="center">👉 Interested in learning more about what we are building? Click below!</p>
 
-<p align="center"><a href="https://axone.xyz"><img src="/profile/static/axone-link.svg" /></a></p>
+<p align="center"><a href="https://axone.xyz"><img src="/profile/static/axone-link.png" /></a></p>
 
 ## 🔗 The protocol
 
