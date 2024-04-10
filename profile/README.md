@@ -21,6 +21,8 @@ After 4+ years of strategy, research and development, Axone is almost ready to b
 
 <br/>
 
+Join our community of builders and developers on the [Axone Community](https://github.com/axone-protocol/community), where you can actively participate in discussions, contribute your ideas, and collaborate on the evolution of the protocol and its applications.
+
 <p align="center">
   <a href="https://discord.gg/axone"><img src="/profile/static/discord.svg" width="64" /></a>
   &nbsp; &nbsp;
