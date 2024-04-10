@@ -11,9 +11,9 @@ Data, algorithms, storage, compute, APIs… Anything on-chain and off-chain can 
 ## 🔗 The protocol
 
 `Axone` is built on the [Cosmos SDK](https://v1.cosmos.network/sdk) 💫 & [CometBFT](https://cometbft.com) consensus, and allows companies & individuals to define on-chain rules, share any off-chain resources & create a new generation of applications on top of them. With Axone, share anything digital, on your own terms
-🚀 solves the trust issue related to digital resource sharing
-🚀 sovereign, scalable, multichain & fully customizable (built on Cosmos, leveraging IBC, ICQ & ICA)
-🚀 unlocking real-world value creation, bridging the gap between web2 & web3.
+</br>🚀 solves the trust issue related to digital resource sharing
+</br>🚀 sovereign, scalable, multichain & fully customizable (built on Cosmos, leveraging IBC, ICQ & ICA)
+</br>🚀 unlocking real-world value creation, bridging the gap between web2 & web3.
 
 After 4+ years of strategy, research and development, Axone is almost ready to become the foundation for a scalable Open Dataverse, unlocking a new wave of use cases through real-world decentralized coordination. Our team & community is building a set of tools at the infrastructure, protocol, data and application layers with UX, interoperability, privacy and security in mind, ready to ignite innovation through data sharing.
 
