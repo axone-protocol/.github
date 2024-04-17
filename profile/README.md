@@ -6,7 +6,7 @@ Data, algorithms, storage, compute, APIs… Anything on-chain and off-chain can 
 
 <p align="center">👉 Interested in learning more about what we are building? Click below!</p>
 
-<p align="center"><a href="https://axone.xyz"><img src="/profile/static/axone-link.png" /></a></p>
+<p align="center"><a href="https://axone.xyz"><img src="/profile/static/axone-link-courier.png" /></a></p>
 
 ## 🔗 The protocol
 
