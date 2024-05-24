@@ -33,6 +33,21 @@ jobs:
         with:
           args: "**/*.md"
 
+  lint-markdown-link:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Lint markdown links
+        uses: gaurav-nelson/github-action-markdown-link-check@v1
+        with:
+          use-quiet-mode: "no"
+          use-verbose-mode: "yes"
+          base-branch: "main"
+          check-modified-files-only: "no"
+          config-file: ".mlc_config.json"
+
   lint-yaml:
     runs-on: ubuntu-22.04
     steps:
