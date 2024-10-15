@@ -10,5 +10,5 @@
 
 📫 If you want to contact us :
 
-[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/okp4)
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/axone)
 [![mail](https://img.shields.io/badge/Mail-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:opensource@axone.xyz)
