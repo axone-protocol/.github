@@ -50,7 +50,9 @@ jobs:
 
             Please review the changes and merge this pull request if everything looks good. Thanks! ❤️
           COMMIT_MESSAGE: "ci(dependabot): update assignees and reviewers"
-          GH_TOKEN: ${{ secrets.OPS_TOKEN }}
+          GH_TOKEN: ${{ secrets.OPS_MAINTENANCE_TOKEN }}
+          GIT_AUTHOR_NAME: ${{ vars.BOT_GIT_AUTHOR_NAME }}
+          GIT_AUTHOR_EMAIL: ${{ vars.BOT_GIT_AUTHOR_EMAIL }}
         run: |
           mkdir -p temp
           cd temp
@@ -68,6 +70,10 @@ jobs:
 
               repo_name=$(basename "$repo")
               cd "$repo_name" || { echo "❌ Failed to enter $repo_name"; continue; }
+
+              git config user.name "$GIT_AUTHOR_NAME"
+              git config user.email "$GIT_AUTHOR_EMAIL"
+              git remote set-url origin https://x-access-token:$GH_TOKEN@github.com/$repo
 
               if [[ -f "$DEPENDABOT_FILE" ]]; then
                   echo "✅ Dependabot config found. Checking for necessary changes..."
