@@ -1,4 +1,4 @@
-[![axone github banner](/profile/static/axone-banner.png)](https://axone.xyz)
+[![axone github banner](/profile/static/axone-banner.jpg)](https://axone.xyz)
 
 <p align="center"><strong>𝑨𝒙𝒐𝒏𝒆 𝒎𝒂𝒌𝒆𝒔 𝒅𝒊𝒈𝒊𝒕𝒂𝒍 𝒂𝒄𝒕𝒔 𝒆𝒙𝒑𝒍𝒊𝒄𝒊𝒕, 𝒈𝒐𝒗𝒆𝒓𝒏𝒂𝒃𝒍𝒆, 𝒂𝒏𝒅 𝒗𝒆𝒓𝒊𝒇𝒊𝒂𝒃𝒍𝒆</strong></p>
 
